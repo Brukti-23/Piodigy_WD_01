@@ -15,7 +15,7 @@ This project demonstrates various hover effects using **HTML** and **CSS**. It s
 ## How to Use
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/prodigy_WD_01.git
+   git clone https://github.com/Brukti-23/prodigy_WD_01.git
    ```
 2. **Navigate to the project directory:**
    ```bash
